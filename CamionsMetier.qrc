@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/mapbackgroud"/>
+    <qresource prefix="/">
+        <file>mapCamion.qml</file>
+    </qresource>
+</RCC>
